@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wallpaper HD</string>
+    <string name="navigationopen">Open navigation drawer</string>
+    <string name="navigationclose">Close navigation drawer</string>
+</resources>
